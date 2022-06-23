@@ -46,11 +46,5 @@ public class GiftTax {
         } else {
             System.out.println("No Tax!");
         }
-
-
-
-
-
-
     }
 }
