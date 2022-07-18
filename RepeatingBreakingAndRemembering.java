@@ -1,6 +1,7 @@
 /* 
 Part 1:  Reading
-Implement a program that asks the user for numbers (the program first prints "Write numbers: ") until the user gives the number -1. When the user writes -1, the program prints "Thx! Bye!" and ends.
+Implement a program that asks the user for numbers (the program first prints "Write numbers: ") until the user 
+gives the number -1. When the user writes -1, the program prints "Thx! Bye!" and ends.
 
 Part 2: Sum of numbers
 Extend the program so that it prints the sum of the numbers (not including the -1) the user has written.
